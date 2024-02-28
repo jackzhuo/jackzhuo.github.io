@@ -777,7 +777,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -796,7 +796,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -815,7 +815,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -834,7 +834,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -863,7 +863,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -877,7 +877,7 @@
   width:250px;
   height:30px;
   display:flex;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -907,7 +907,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -932,7 +932,7 @@
   -moz-box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
   -webkit-box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
   box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -957,7 +957,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -979,8 +979,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
-  font-weight:400;
+  font-family:'Font Awesome 5 Pro Light', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:300;
   font-style:normal;
   font-size:18px;
   color:#CCCCCC;
@@ -993,8 +993,8 @@
   width:30px;
   height:30px;
   display:flex;
-  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
-  font-weight:400;
+  font-family:'Font Awesome 5 Pro Light', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:300;
   font-style:normal;
   font-size:18px;
   color:#CCCCCC;
@@ -1074,7 +1074,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1093,7 +1093,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1112,7 +1112,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1131,7 +1131,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1160,7 +1160,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1174,7 +1174,7 @@
   width:250px;
   height:30px;
   display:flex;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1204,7 +1204,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1229,7 +1229,7 @@
   -moz-box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
   -webkit-box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
   box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1254,7 +1254,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1369,7 +1369,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1388,7 +1388,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1407,7 +1407,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1426,7 +1426,7 @@
   width:250px;
   height:30px;
   padding:3px 2px 3px 10px;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1455,7 +1455,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1469,7 +1469,7 @@
   width:250px;
   height:30px;
   display:flex;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1499,7 +1499,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1524,7 +1524,7 @@
   -moz-box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
   -webkit-box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
   box-shadow:0px 0px 5px rgba(64, 158, 255, 0.247058823529412);
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1549,7 +1549,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -2760,7 +2760,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
@@ -2774,7 +2774,7 @@
   width:140px;
   height:40px;
   display:flex;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
@@ -2801,7 +2801,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
@@ -2823,7 +2823,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
@@ -2845,7 +2845,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
@@ -4367,8 +4367,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
-  font-weight:400;
+  font-family:'Font Awesome 5 Pro Light', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:300;
   font-style:normal;
   font-size:18px;
   color:#CCCCCC;
@@ -4381,8 +4381,8 @@
   width:30px;
   height:30px;
   display:flex;
-  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
-  font-weight:400;
+  font-family:'Font Awesome 5 Pro Light', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:300;
   font-style:normal;
   font-size:18px;
   color:#CCCCCC;
